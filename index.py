@@ -22,4 +22,3 @@ def binarySearch (arr, l, r, x):
     else: 
         # Element is not present in the array 
         return -1
-<hello>
